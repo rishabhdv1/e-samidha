@@ -28,5 +28,10 @@
     "icon": "Icons.menu_book_sharp",
     "title": "Content Title 6",
     "subtitle": "Content Subtitle 6"
+  },
+  {
+    "icon": "Icons.menu_book_sharp",
+    "title": "Content Title 7",
+    "subtitle": "Content Subtitle 7"
   }
 ]
